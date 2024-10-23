@@ -58,11 +58,10 @@
             color: black;
             }
         </style>
-    
     <body>
         <div class="login-container">
             <h2>Entrada</h2>
-            <form action="../index/index.php" method="POST">
+            <form action="../venda-de-ingressosphp/contato/index.php" method="POST">
                 <div class="form-group">
                     <label for="username">Usuário:</label>
                     <input type="text" id="username" name="username" required>
